@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Jamshedpur Guide</string>
+
+    <!-- Attractions in the city of Jamshedpur -->
+    <string name="community">Community</string>
+    <string name="company">Company</string>
+    <string name="park">Park</string>
+    <string name="restaurant">Restaurant</string>
+
+<!--    Names of the companies in Jamshedpur-->
+    <string name="tata_steel">TATA STEEL</string>
+    <string name="tata_steel_description">"Tata Steel was founded by Jamshetji Tata and established by Dorabji Tata on 26 August 1907"</string>
+    <string name="tata_motors">TATA MOTORS</string>
+    <string name="tata_motors_description">"Founded in 1945 as a manufacturer of locomotives, the company manufactured its first commercial vehicle in 1954"</string>
+    <string name="tata_tinplate">TATA TINPLATE</string>
+    <string name="tata_tinplate_description">The Tinplate Company of India Limited (TCIL) is a subsidiary of Tata Steel Ltd, which has a 74.96 per cent stake</string>
+    <string name="iswp">ISWP</string>
+    <string name="iswp_description">Started in the year 1920, ISWP, was set by Sir Bahadur Inder Singha and became India’s first Wire Drawing Plant. </string>
+    
+    <!--    Names of the parks in Jamshedpur-->   
+    
+    <string name="jublilee_park">Jubilee Park</string>
+    <string name="jublilee_park_desc">Jubilee Park is an urban park located in the city of Jamshedpur in India. It is a popular destination for all those who wish to have an outdoor picnic</string>
+    <string name="new_baridih_park">New Baridih Park</string>
+    <string name="new_baridih_park_desc">Tube Colony, Baridih, Jamshedpur, Jharkhand 831017</string>
+    <string name="baridih_postal_park">Baridih Postal Park</string>
+    <string name="baridih_postal_park_desc">Medical Corridor, Baridih, Jamshedpur, Jharkhand 831017</string>
+<string name="millennium_park">Millennium Park</string>
+    <string name="millennium_park_desc">River View, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004</string>
+
+    <!--   Restaurants in Jamshedpur-->
+
+    <string name="novelty">Novelty Restaurant</string>
+    <string name="novelty_dsc">Easygoing, monochrome restaurant serving pan-Indian dishes &amp; a few Indian-style Chinese dishes.</string>
+    <string name="little_italy_restaurant">Little Italy Restaurant</string>
+    <string name="little_italy_restaurant_dsc">Fortune Hotel, I.C. Road Centre Point, Jamshedpur, Jharkhand 831001</string>
+    <string name="moti_mahal_delux">Moti Mahal Delux</string>
+    <string name="moti_mahal_delux_dsc">Crystal Square, Kharkai Link Rd, Bistupur, Jamshedpur, Jharkhand 831001</string>
+    <string name="equinox">Equinox</string>
+    <string name="equinox_dsc">The Sonnet, Inner Cir Rd, Contractors Area, Bistupur, Jamshedpur, Jharkhand 831001</string>
+
+    <!--   Communities in Jamshedpur-->
+    <string name="maharastra_mandal">Maharashtra Hitkari Mandal</string>
+    <string name="maharastra_mandal_dsc">K Road Bistupur, Jamshedpur, Jharkhand 831001</string>
+    <string name="kerala_samajam">Kerala Samajam</string>
+    <string name="kerala_samajam_dsc">Punjabi Refugee Colony, Golmuri, Jamshedpur, Jharkhand 831009</string>
+
+
+
+</resources>
